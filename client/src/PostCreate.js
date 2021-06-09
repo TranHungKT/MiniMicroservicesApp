@@ -25,7 +25,9 @@ export default () => {
             className='form-control'
           />
         </div>
-        <button className='btn btn-primary'>Submit</button>
+        <button className='btn btn-primary' style={{ marginTop: '20px' }}>
+          Submit
+        </button>
       </form>
     </div>
   )
